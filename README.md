@@ -8,3 +8,4 @@
 - [ml5.js](https://ml5js.org/) - Biblioteca de aprendizaje automático orientado al principiante. Usable desde el navegador con el editor web de p5.js.
 - [machine learning for kids](https://machinelearningforkids.co.uk/scratch3/) - Versión de Scratch3 con extensiones de aprendizaje automático, con modelos preentrenados.
 - [Teachable Machine](https://teachablemachine.withgoogle.com/) - Creación de modelos de aprendizaje automático de forma sencilla y visual. Exporta a Javascript y p5.js.
+- [Moral Machine](https://www.moralmachine.net/) - Plataforma para recopilar una perspectiva humana sobre las decisiones morales tomadas por las máquinas inteligentes, como los coches autónomos.
