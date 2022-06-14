@@ -10,3 +10,11 @@
 - [Teachable Machine](https://teachablemachine.withgoogle.com/) - Creación de modelos de aprendizaje automático de forma sencilla y visual. Exporta a Javascript y p5.js.
 - [Moral Machine](https://www.moralmachine.net/) - Plataforma para recopilar una perspectiva humana sobre las decisiones morales tomadas por las máquinas inteligentes, como los coches autónomos.
 - [AI4K12](https://ai4k12.org/) - Recursos de inteligencia artificial para niveles K12.
+
+## Proyectos interdisciplinares
+> Recursos para posibles proyectos interdisciplinares con otros departamentos
+
+### Música y nuevas tecnologías
+
+- [Sonic Pi](https://sonic-pi.net/) - creación en vivo de música mediante programación en Ruby.
+- [The code of music](https://luisaph.github.io/the-code-of-music-2018/) - Curso que explora la música a través de la programación y la interactividad. Basado en p5.js.
