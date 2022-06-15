@@ -27,6 +27,7 @@
 ### Matemáticas
 
 ### Física y química
+- [The nature of code[(https://thecodingtrain.com/tracks/the-nature-of-code-2) - Curso de programación en p5.js orientado a la física y las matemáticas: vectores, fuerzas, ángulos, particulas y sistemas autónomos.
 
 ### Dibujo
 
