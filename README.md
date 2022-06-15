@@ -14,9 +14,18 @@
 ## Proyectos interdisciplinares
 > Recursos para posibles proyectos interdisciplinares con otros departamentos
 
-### Música y nuevas tecnologías
-
+### Música
+#### Code-based music
 - [Sonic Pi](https://sonic-pi.net/) - creación en vivo de música mediante programación en Ruby.
 - [The code of music](https://luisaph.github.io/the-code-of-music-2018/) - Curso de la Tisch School of the Arts que explora la música a través de la programación y la interactividad. Basado en p5.js.
+
+#### Música y nuevas tecnologías
 - [Música y nuevas tecnologías I](https://hccmusica.ugr.es/docencia/grados/grado-historia-y-ciencias-la-musica/musica-y-nuevas-tecnologias-i/guia-docente) - Asignatura de grado de la Universidad de Granada. Uso de software para grabación, edición y composición digital.
 - [Música y nuevas tecnologías II](https://hccmusica.ugr.es/docencia/grados/grado-historia-y-ciencias-la-musica/musica-y-nuevas-tecnologias-ii/guia-docente) - Asignatura de grado de la Universidad de Granada. Síntesis, mezcla, masterización y distribución de música digital.
+
+### Matemáticas
+
+### Física y química
+
+### Dibujo
+
