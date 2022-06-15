@@ -32,5 +32,5 @@
 ### Dibujo
 
 ### Biología y Geología
-- (Algorithmic botany)(https://thecodingtrain.com/tracks/algorithmic-botany) - Curso de programación en p5.js que explora los patrones encontrados en la naturaleza. Simulación de crecimiento de plantas, flores, árboles. Creación de jardines digitales.
+- [Algorithmic botany](https://thecodingtrain.com/tracks/algorithmic-botany) - Curso de programación en p5.js que explora los patrones encontrados en la naturaleza. Simulación de crecimiento de plantas, flores, árboles. Creación de jardines digitales.
 
