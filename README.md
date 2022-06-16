@@ -29,7 +29,7 @@
 - [Música y nuevas tecnologías II](https://hccmusica.ugr.es/docencia/grados/grado-historia-y-ciencias-la-musica/musica-y-nuevas-tecnologias-ii/guia-docente) - Asignatura de grado de la Universidad de Granada. Síntesis, mezcla, masterización y distribución de música digital.
 
 ### Matemáticas
-- [Code by math](https://www.codebymath.com/) - Curso de programación online orientado al aprendizaje de las matemáticas. Contiene libro descargable gratuito: ["Learn algebra by code"](https://www.codebymath.com/index.php/welcome/book)
+- [Code by math](https://www.codebymath.com/) - Curso de programación online orientado al aprendizaje de las matemáticas. Se programa en Lua. Contiene libro descargable gratuito: ["Learn algebra by code"](https://www.codebymath.com/index.php/welcome/book)
 
 ### Física y química
 - [The nature of code](https://thecodingtrain.com/tracks/the-nature-of-code-2) - Curso de programación en p5.js orientado a la física y las matemáticas: vectores, fuerzas, ángulos, particulas y sistemas autónomos.
