@@ -16,6 +16,8 @@
 - [AI4K12](https://ai4k12.org/) - Recursos de inteligencia artificial para niveles K12.
 - [LearningML](https://web.learningml.org/) - Alternativa OpenSource a TeachableMachine. Tiene una [versión de Scratch](https://learningml.org/scratch/) con extensiones específicas.
 
+### Robótica
+
 ## Proyectos interdisciplinares
 > Recursos para posibles proyectos interdisciplinares con otros departamentos
 
