@@ -3,14 +3,18 @@
 
 ## Programación, inteligencia artificial y robótica (2ESO y 3ESO)
 
+### Programación
 - [The coding train](https://thecodingtrain.com/) - Canal de Youtube dedicado a la programación creativa a mediante proyectos.
 - [p5.js](https://p5js.org/) - Biblioteca de JavaScript para la programación creativa, con editor web.
 - [Code! Programming with p5.js](https://thecodingtrain.com/tracks/code-programming-with-p5-js) - Curso de programación basado en p5.js: variables, lógica condicional, bucles, funciones, objetos y arrays.
+
+### Inteligencia artificial
 - [ml5.js](https://ml5js.org/) - Biblioteca de aprendizaje automático orientado al principiante. Usable desde el navegador con el editor web de p5.js. Prueba los modelos preentrenados [aquí](https://examples.ml5js.org/).
 - [machine learning for kids](https://machinelearningforkids.co.uk/scratch3/) - Versión de Scratch3 con extensiones de aprendizaje automático, con modelos preentrenados.
 - [Teachable Machine](https://teachablemachine.withgoogle.com/) - Creación de modelos de aprendizaje automático de forma sencilla y visual. Exporta a Javascript y p5.js.
 - [Moral Machine](https://www.moralmachine.net/) - Plataforma para recopilar una perspectiva humana sobre las decisiones morales tomadas por las máquinas inteligentes, como los coches autónomos.
 - [AI4K12](https://ai4k12.org/) - Recursos de inteligencia artificial para niveles K12.
+- [LearningML](https://web.learningml.org/) - Alternativa OpenSource a TeachableMachine. Tiene una [versión de Scratch](https://learningml.org/scratch/) con extensiones específicas.
 
 ## Proyectos interdisciplinares
 > Recursos para posibles proyectos interdisciplinares con otros departamentos
