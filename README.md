@@ -37,7 +37,7 @@
 - [The nature of code](https://thecodingtrain.com/tracks/the-nature-of-code-2) - Curso de programación en p5.js orientado a la física y las matemáticas: vectores, fuerzas, ángulos, particulas y sistemas autónomos.
 
 ### Dibujo
-- [Pencil Code](https://pencilcode.net/) - Versión de Scratch orientada a dibujar. Contiene [libro con ejercicios](https://book.pencilcode.net/).
+- [Pencil Code](https://pencilcode.net/) - Plataforma online de programación por bloques (similar a Scratch), orientada para dibujar. Contiene [libro con ejercicios](https://book.pencilcode.net/).
 
 ### Biología y Geología
 - [Algorithmic botany](https://thecodingtrain.com/tracks/algorithmic-botany) - Curso de programación en p5.js que explora los patrones encontrados en la naturaleza. Simulación de crecimiento de plantas, flores, árboles. Creación de jardines digitales.
