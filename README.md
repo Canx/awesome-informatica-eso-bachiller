@@ -17,6 +17,7 @@
 - [LearningML](https://web.learningml.org/) - Alternativa OpenSource a TeachableMachine. Tiene una [versión de Scratch](https://learningml.org/scratch/) con extensiones específicas.
 
 ### Robótica
+- [Open Roberta](https://www.open-roberta.org/) - Plataforma de programación por bloques orientado a la robótica. Soporta las siguientes plataformas en modo simulación (sin hardware): Lego Mindstorms EV3, Lego Mindstorms NXT, mBot, Calliope mini y Micro:bit. Y muchos más en modo real.
 
 ## Proyectos interdisciplinares
 > Recursos para posibles proyectos interdisciplinares con otros departamentos
