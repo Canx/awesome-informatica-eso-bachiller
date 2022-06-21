@@ -13,6 +13,7 @@
 - [machine learning for kids](https://machinelearningforkids.co.uk/scratch3/) - Versión de Scratch3 con extensiones de aprendizaje automático, con modelos preentrenados.
 - [Teachable Machine](https://teachablemachine.withgoogle.com/) - Creación de modelos de aprendizaje automático de forma sencilla y visual. Exporta a Javascript y p5.js.
 - [Moral Machine](https://www.moralmachine.net/) - Plataforma para recopilar una perspectiva humana sobre las decisiones morales tomadas por las máquinas inteligentes, como los coches autónomos.
+- [Will robots take my job?](https://willrobotstakemyjob.com/) - Dada una profesión calcula el riesgo de automatización que tendrá en un futuro.
 - [AI4K12](https://ai4k12.org/) - Recursos de inteligencia artificial para niveles K12.
 - [LearningML](https://web.learningml.org/) - Alternativa OpenSource a TeachableMachine. Tiene una [versión de Scratch](https://learningml.org/scratch/) con extensiones específicas.
 
