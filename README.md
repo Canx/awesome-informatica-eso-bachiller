@@ -22,7 +22,9 @@
 - [IA in Education (ISTE)](https://www.iste.org/es/areas-of-focus/AI-in-education) - Asociación de profesores que crea recursos de tecnología, pensamiento computacional y inteligencia artificial.
 
 ### Robótica
-- [Microbit](https://microbit.org/) - placa con sensores, botones y leds programable a través de Scratch / makeCode / Python. Necesita bluetooth.
+- [Microbit](https://microbit.org/) - placa con microcontrolador orientada a la enseñanza. Programable a través de Scratch / makeCode / Python.
+- [Maqueen](https://www.dfrobot.com/product-1783.html) - Robot que utiliza como base una microbit.
+- [Maqueen retos](https://pedroruizf.github.io/maqueen_retos/) - Tareas para el robot Maqueen, por Pedro Ruiz.
 - [Open Roberta](https://www.open-roberta.org/) - Plataforma [open source](https://github.com/OpenRoberta/openroberta-lab) de programación por bloques orientado a la robótica. Soporta las siguientes plataformas en modo simulación (sin hardware): Lego Mindstorms EV3, Lego Mindstorms NXT, mBot, Calliope mini y Micro:bit. Y muchos más en modo real. 
 
 ## Proyectos interdisciplinares
