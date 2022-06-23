@@ -19,6 +19,7 @@
 - [AI4K12](https://ai4k12.org/) - Recursos de inteligencia artificial para niveles K12.
 - [LearningML](https://web.learningml.org/) - Alternativa OpenSource a TeachableMachine. Tiene una [versión de Scratch](https://learningml.org/scratch/) con extensiones específicas.
 - [Introducing Machine Learning with Scratch and Robots as a Pilot Program for K-12 Computer Science Education](https://www.researchgate.net/publication/349657124_Introducing_Machine_Learning_with_Scratch_and_Robots_as_a_Pilot_Program_for_K-12_Computer_Science_Education) - Paper donde se explica la experiencia de aplicar programación, AI y robótica en cursos K12. Hay ejemplos de proyectos y resultados obtenidos.
+- [IA in Education (ISTE)][https://www.iste.org/es/areas-of-focus/AI-in-education] - Asociación de profesores que crea recursos de tecnología.
 
 ### Robótica
 - [Open Roberta](https://www.open-roberta.org/) - Plataforma [open source](https://github.com/OpenRoberta/openroberta-lab) de programación por bloques orientado a la robótica. Soporta las siguientes plataformas en modo simulación (sin hardware): Lego Mindstorms EV3, Lego Mindstorms NXT, mBot, Calliope mini y Micro:bit. Y muchos más en modo real. 
