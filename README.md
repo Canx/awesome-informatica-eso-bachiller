@@ -12,12 +12,12 @@
 
 ### Inteligencia artificial
 - [ml5.js](https://ml5js.org/) - Biblioteca de aprendizaje automático orientado al principiante. Usable desde el navegador con el editor web de p5.js. Prueba los modelos preentrenados [aquí](https://examples.ml5js.org/).
-- [machine learning for kids](https://machinelearningforkids.co.uk/scratch3/) - Versión de Scratch3 con extensiones de aprendizaje automático, con modelos preentrenados.
+- [ML4K](https://machinelearningforkids.co.uk/scratch3/) - Machine Learning For Kids (ML4K) es una versión de Scratch3 con extensiones de aprendizaje automático, con modelos preentrenados.
 - [Teachable Machine](https://teachablemachine.withgoogle.com/) - Creación de modelos de aprendizaje automático de forma sencilla y visual. Exporta a Javascript y p5.js.
 - [Moral Machine](https://www.moralmachine.net/) - Plataforma para recopilar una perspectiva humana sobre las decisiones morales tomadas por las máquinas inteligentes, como los coches autónomos.
 - [Will robots take my job?](https://willrobotstakemyjob.com/) - Dada una profesión calcula el riesgo de automatización que tendrá en un futuro.
 - [AI4K12](https://ai4k12.org/) - Recursos de inteligencia artificial para niveles K12.
-- [LearningML](https://web.learningml.org/) - Alternativa OpenSource a TeachableMachine. Tiene una [versión de Scratch](https://learningml.org/scratch/) con extensiones específicas.
+- [LearningML](https://web.learningml.org/) - Alternativa OpenSource a TeachableMachine. Tiene una [versión de Scratch](https://learningml.org/scratch/) con extensiones específicas. Está inspirado en ML4K.
 - [Introducing Machine Learning with Scratch and Robots as a Pilot Program for K-12 Computer Science Education](https://www.researchgate.net/publication/349657124_Introducing_Machine_Learning_with_Scratch_and_Robots_as_a_Pilot_Program_for_K-12_Computer_Science_Education) - Paper donde se explica la experiencia de aplicar programación, AI y robótica en cursos K12. Hay ejemplos de proyectos y resultados obtenidos.
 - [IA in Education (ISTE)][https://www.iste.org/es/areas-of-focus/AI-in-education] - Asociación de profesores que crea recursos de tecnología.
 
