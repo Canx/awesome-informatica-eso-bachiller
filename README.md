@@ -13,6 +13,7 @@
 ### Inteligencia artificial
 - [ml5.js](https://ml5js.org/) - Biblioteca de aprendizaje automático orientado al principiante. Usable desde el navegador con el editor web de p5.js. Prueba los modelos preentrenados [aquí](https://examples.ml5js.org/).
 - [ML4K](https://machinelearningforkids.co.uk/scratch3/) - Machine Learning For Kids (ML4K) es una versión de Scratch3 con extensiones de aprendizaje automático, con modelos preentrenados.
+- [Inteligencia artificial en el aula con Scratch 3.0](https://code.intef.es/prop_didacticas/inteligencia-artificial-en-el-aula-con-scratch-3-0/) - Propuesta del INTEF donde se implementa un asistente virtual con programación clásica con Scratch 3.0, se analizan sus problemas y se implementa una solución con aprendizaje automático (con ML4K).
 - [Teachable Machine](https://teachablemachine.withgoogle.com/) - Creación de modelos de aprendizaje automático de forma sencilla y visual. Exporta a Javascript y p5.js.
 - [Moral Machine](https://www.moralmachine.net/) - Plataforma para recopilar una perspectiva humana sobre las decisiones morales tomadas por las máquinas inteligentes, como los coches autónomos.
 - [Will robots take my job?](https://willrobotstakemyjob.com/) - Dada una profesión calcula el riesgo de automatización que tendrá en un futuro.
