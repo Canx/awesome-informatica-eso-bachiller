@@ -3,7 +3,8 @@
 
 ## Programación, inteligencia artificial y robótica (2ESO y 3ESO)
 
-- [Libro "Pensamiento Computacional y Currículum. Algo más que aprender a programar"](https://canaltic.com/blog/?p=4992)\Recorrido por distintas líneas educativas relacionadas con el pensamiento computacional. Contiene multitud de recursos sobre programación, robótica y inteligencia artificial.
+- [Libro "Pensamiento Computacional y Currículum. Algo más que aprender a programar"](https://canaltic.com/blog/?p=4992)\
+Recorrido por distintas líneas educativas relacionadas con el pensamiento computacional. Contiene multitud de recursos sobre programación, robótica y inteligencia artificial.
 
 ### Programación
 - [The coding train](https://thecodingtrain.com/) - Canal de Youtube dedicado a la programación creativa a mediante proyectos.
