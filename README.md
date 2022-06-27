@@ -13,7 +13,7 @@
 ### Inteligencia artificial
 
 #### Actividades
-- [Inteligencia artificial en el aula con Scratch 3.0](https://code.intef.es/prop_didacticas/inteligencia-artificial-en-el-aula-con-scratch-3-0/) - Propuesta del INTEF donde se implementa un asistente virtual con programación clásica (con Scratch 3.0), se analizan sus problemas y se implementa una solución con aprendizaje automático (con ML4K).
+- [Inteligencia artificial en el aula con Scratch 3.0](https://code.intef.es/prop_didacticas/inteligencia-artificial-en-el-aula-con-scratch-3-0/) ![](https://img.shields.io/badge/-Scratch3.0-orange) - Propuesta del INTEF donde se implementa un asistente virtual con programación clásica (con Scratch 3.0), se analizan sus problemas y se implementa una solución con aprendizaje automático (con ML4K).
 - [Controlar una placa programable usando la voz mediante un sistema de Inteligencia Artificial](https://code.intef.es/prop_didacticas/controlar-una-placa-programable-usando-la-voz-mediante-un-sistema-de-inteligencia-artificial/) - Propuesta del INTEF donde se utiliza una microbit y un modelo de ML4K para controlar la placa mediante comandos de voz que se han entrenado previamente.
 - [Sistemas de reconocimiento facial con Scratch Lab Face Sensing](https://code.intef.es/prop_didacticas/actividades-practicas-para-conocer-y-reflexionar-sobre-los-sistemas-de-reconocimiento-facial-con-scratch-lab-face-sensing/) - Propuesta de INTEF que consiste en 3 proyectos guiados que combinan la detección de cara mediante webcam mediante aprendizaje automático, con ejemplos de uso de la tecnología. Posteriormente se realiza un proyecto libre y una reflexión.
 
