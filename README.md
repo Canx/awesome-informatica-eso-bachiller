@@ -9,10 +9,11 @@ Recorrido por distintas líneas educativas relacionadas con el pensamiento compu
 ### Programación
 
 #### Programación por bloques
-- [Scratch School](https://www.scratch.school/)\
-Cursos y proyectos de Scratch.
+
 - [Computación creativa con Scratch](https://scratchalsur.org/sitio_2021/wordpress/wp-content/uploads/2022/03/Guia-Curricular-Creatividad-Computacional-Scratch-3.0.pdf)\
 Guía para crear actividades y proyectos con Scratch que potencien la creatividad y la planificación, evitando el ir paso-a-paso. Contiene ejemplos.
+- [Scratch School](https://www.scratch.school/)\
+Cursos y proyectos de Scratch.
 
 #### Programación escrita
 - [The coding train](https://thecodingtrain.com/)\
