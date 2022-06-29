@@ -8,13 +8,7 @@ Recorrido por distintas líneas educativas relacionadas con el pensamiento compu
 
 ### Programación
 
-#### Librerías y herramientas
-- [Scratch3](https://scratch.mit.edu/)\
-Plataforma de programación por bloques Open Source.
-- [Dr. Scratch](http://www.drscratch.org)\
-Herramienta para análisis y validación de proyectos de Scratch3.
-- [p5.js](https://p5js.org/)\
-Biblioteca de JavaScript para la programación creativa, con editor web.
+#### Actividades
 
 ##### Programación por bloques
 - [Scratch School](https://www.scratch.school/)\
@@ -25,6 +19,14 @@ Cursos y proyectos de Scratch.
 Canal de Youtube dedicado a la programación creativa a mediante proyectos.
 - [Code! Programming with p5.js](https://thecodingtrain.com/tracks/code-programming-with-p5-js)\
 Curso de programación basado en p5.js: variables, lógica condicional, bucles, funciones, objetos y arrays.
+
+#### Librerías y herramientas
+- [Scratch3](https://scratch.mit.edu/)\
+Plataforma de programación por bloques Open Source.
+- [Dr. Scratch](http://www.drscratch.org)\
+Herramienta para análisis y validación de proyectos de Scratch3.
+- [p5.js](https://p5js.org/)\
+Biblioteca de JavaScript para la programación creativa, con editor web.
 
 ### Inteligencia artificial
 
@@ -63,12 +65,16 @@ Asociación de profesores que crea recursos de tecnología, pensamiento computac
 Paper donde se explica la experiencia de aplicar programación, AI y robótica en cursos K12. Hay ejemplos de proyectos y resultados obtenidos.
 
 ### Robótica
+
+#### Actividades
+- [Maqueen retos](https://pedroruizf.github.io/maqueen_retos/)\
+Tareas para el robot Maqueen, por Pedro Ruiz.
+
+#### Hardware, librerías y herramientas
 - [Microbit](https://microbit.org/)\
 Placa con microcontrolador orientada a la enseñanza. Programable a través de Scratch / makeCode / Python.
 - [Maqueen](https://www.dfrobot.com/product-1783.html)\
 Robot que utiliza como base una microbit.
-- [Maqueen retos](https://pedroruizf.github.io/maqueen_retos/)\
-Tareas para el robot Maqueen, por Pedro Ruiz.
 - [Open Roberta](https://www.open-roberta.org/)\
 Plataforma [open source](https://github.com/OpenRoberta/openroberta-lab) de programación por bloques orientado a la robótica. Soporta las siguientes plataformas en modo simulación (sin hardware): Lego Mindstorms EV3, Lego Mindstorms NXT, mBot, Calliope mini y Micro:bit. Y muchos más en modo real. 
 
