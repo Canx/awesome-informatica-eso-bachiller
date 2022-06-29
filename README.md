@@ -8,17 +8,21 @@ Recorrido por distintas líneas educativas relacionadas con el pensamiento compu
 
 ### Programación
 
-#### Programación por bloques
+#### Librerías y herramientas
 - [Scratch3](https://scratch.mit.edu/)\
 Plataforma de programación por bloques Open Source.
 - [Dr. Scratch](http://www.drscratch.org)\
 Herramienta para análisis y validación de proyectos de Scratch3.
-
-#### Programación en Javascript
-- [The coding train](https://thecodingtrain.com/)\
-Canal de Youtube dedicado a la programación creativa a mediante proyectos.
 - [p5.js](https://p5js.org/)\
 Biblioteca de JavaScript para la programación creativa, con editor web.
+
+##### Programación por bloques
+- [Scratch School](https://www.scratch.school/)\
+Cursos y proyectos de Scratch.
+
+##### Programación en Javascript
+- [The coding train](https://thecodingtrain.com/)\
+Canal de Youtube dedicado a la programación creativa a mediante proyectos.
 - [Code! Programming with p5.js](https://thecodingtrain.com/tracks/code-programming-with-p5-js)\
 Curso de programación basado en p5.js: variables, lógica condicional, bucles, funciones, objetos y arrays.
 
