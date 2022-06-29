@@ -38,7 +38,7 @@ Plataforma para recopilar una perspectiva humana sobre las decisiones morales to
 - [Will robots take my job?](https://willrobotstakemyjob.com/)\
 Dada una profesión calcula el riesgo de automatización que tendrá en un futuro.
 - [Inteligencia artificial y desarrollo sostenible](https://www.sostenibilidad.com/desarrollo-sostenible/la-alianza-entre-inteligencia-artificial-y-desarrollo-sostenible/)\
-Artículo que nos da pistas de como puede contribuir la AI al desarrollo sostenible.
+Artículo que nos da ejemplos sobre como puede contribuir la AI al desarrollo sostenible.
 
 #### Librerías y herramientas
 - [ML4K](https://machinelearningforkids.co.uk/scratch3/)\
