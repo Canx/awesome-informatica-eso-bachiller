@@ -43,6 +43,8 @@ Propuesta del INTEF donde se utiliza una microbit y un modelo de ML4K para contr
 Propuesta de INTEF que consiste en 3 proyectos guiados que combinan la detección de cara mediante webcam mediante aprendizaje automático, con ejemplos de uso de la tecnología. Posteriormente se realiza un proyecto libre y una reflexión.
 
 #### Ética y concienciación
+- [Recomendación sobre la Ética de la Inteligencia Artificial](https://es.unesco.org/artificial-intelligence/ethics)\
+Recomendaciones de la UNESCO sobre regulación de la IA.
 - [Moral Machine](https://www.moralmachine.net/)\
 Plataforma para recopilar una perspectiva humana sobre las decisiones morales tomadas por las máquinas inteligentes, como los coches autónomos.
 - [Will robots take my job?](https://willrobotstakemyjob.com/)\
