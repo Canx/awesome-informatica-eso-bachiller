@@ -27,7 +27,7 @@ Biblioteca de aprendizaje automático orientado al principiante. Usable desde el
 Creación de modelos de aprendizaje automático de forma sencilla y visual. Exporta a Javascript y p5.js.
 
 #### Robótica
-- [Microbit](https://microbit.org/)\
+- [Microbit](https://microbit.org/) ![](https://img.shields.io/badge/-microbit-green)\
 Placa con microcontrolador orientada a la enseñanza. Programable a través de Scratch / makeCode / Python.
 - [pyscrlink](https://github.com/kawasaki/pyscrlink)\
 Herramienta para enlazar las microbit por bluetooth desde Linux.
