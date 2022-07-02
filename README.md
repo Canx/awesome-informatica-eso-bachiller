@@ -17,7 +17,7 @@ Herramienta para análisis y validación de proyectos de Scratch3.
 Biblioteca de JavaScript para la programación creativa, con editor web.
 
 #### Inteligencia artificial
-- [ML4K](https://machinelearningforkids.co.uk/scratch3/)\
+- [ML4K](https://machinelearningforkids.co.uk/scratch3/) ![](https://img.shields.io/badge/-ML4K-blue)\
 Machine Learning For Kids (ML4K) es una versión de Scratch3 con extensiones de aprendizaje automático, con modelos preentrenados.
 - [LearningML](https://web.learningml.org/)\
 Alternativa OpenSource a TeachableMachine. Tiene una [versión de Scratch](https://learningml.org/scratch/) con extensiones específicas. Está inspirado en ML4K.
