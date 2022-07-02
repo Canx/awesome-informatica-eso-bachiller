@@ -79,14 +79,24 @@ Paper donde se explica la experiencia de aplicar programación, AI y robótica e
 #### Actividades
 - [Maqueen retos](https://pedroruizf.github.io/maqueen_retos/)\
 Tareas para el robot Maqueen, por Pedro Ruiz.
+- [Explora amb la microbit](https://projectes.xtec.cat/programacioirobotica/portada/materials-didactics-de-microbit-publicats-a-lalexandria/)\
+Cursos de microbit para primaria y ESO.
 
 #### Hardware, librerías y herramientas
 - [Microbit](https://microbit.org/)\
 Placa con microcontrolador orientada a la enseñanza. Programable a través de Scratch / makeCode / Python.
+- [pyscrlink](https://github.com/kawasaki/pyscrlink)\
+Herramienta para enlazar las microbit por bluetooth desde Linux.
+- [Microbit More](https://microbit-more.github.io/)\
+Extensión de Scratch para aprovechar las capacidades de la v2 de la placa microbit.
 - [Maqueen](https://www.dfrobot.com/product-1783.html)\
 Robot que utiliza como base una microbit.
 - [Open Roberta](https://www.open-roberta.org/)\
 Plataforma [open source](https://github.com/OpenRoberta/openroberta-lab) de programación por bloques orientado a la robótica. Soporta las siguientes plataformas en modo simulación (sin hardware): Lego Mindstorms EV3, Lego Mindstorms NXT, mBot, Calliope mini y Micro:bit. Y muchos más en modo real. 
+
+### Robótica + IA
+- [How to train your robot](https://httyr.media.mit.edu/)\
+Programa de actividades basado en Scratch + Cutebot + microbit + teachableMachine.
 
 ## Proyectos interdisciplinares
 > Recursos para posibles proyectos interdisciplinares con otros departamentos
