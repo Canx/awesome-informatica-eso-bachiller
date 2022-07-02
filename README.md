@@ -9,7 +9,7 @@ Recorrido por distintas líneas educativas relacionadas con el pensamiento compu
 ### Hardware, librerías y herramientas
 
 #### Programación
-- [Scratch3](https://scratch.mit.edu/)\
+- ![](https://img.shields.io/badge/-Scratch3-orange)[Scratch3](https://scratch.mit.edu/)\
 Plataforma de programación por bloques Open Source.
 - [Dr. Scratch](http://www.drscratch.org)\
 Herramienta para análisis y validación de proyectos de Scratch3.
