@@ -107,6 +107,9 @@ Cursos de microbit para primaria y ESO.
 - [How to train your robot](https://httyr.media.mit.edu/)\
 Programa de actividades basado en Scratch + Cutebot + microbit + teachableMachine.
 
+## Programación, redes y sistemas informáticos I (1º bachiller)
+
+
 ## Proyectos interdisciplinares
 > Recursos para posibles proyectos interdisciplinares con otros departamentos
 
