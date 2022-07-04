@@ -60,6 +60,9 @@ Curso de programación basado en p5.js: variables, lógica condicional, bucles, 
 
 ### Inteligencia artificial
 
+[Elements of AI](https://course.elementsofai.com/es/)\
+Curso online de introducción a la IA.
+
 #### Actividades
 - [Inteligencia artificial en el aula con Scratch 3.0](https://code.intef.es/prop_didacticas/inteligencia-artificial-en-el-aula-con-scratch-3-0/) ![](https://img.shields.io/badge/-Scratch3-orange) ![](https://img.shields.io/badge/-ML4K-blue)\
 Propuesta del INTEF donde se implementa un asistente virtual con programación clásica (con Scratch 3.0), se analizan sus problemas y se implementa una solución con aprendizaje automático.
@@ -68,15 +71,13 @@ Propuesta del INTEF donde se utiliza una microbit y un modelo de ML4K para contr
 - [Sistemas de reconocimiento facial con Scratch Lab Face Sensing](https://code.intef.es/prop_didacticas/actividades-practicas-para-conocer-y-reflexionar-sobre-los-sistemas-de-reconocimiento-facial-con-scratch-lab-face-sensing/) ![](https://img.shields.io/badge/-Scratch3-orange) ![](https://img.shields.io/badge/-webcam-lightgrey)\
 Propuesta de INTEF que consiste en 3 proyectos guiados que combinan la detección de cara mediante webcam mediante aprendizaje automático, con ejemplos de uso de la tecnología. Posteriormente se realiza un proyecto libre y una reflexión.
 
-#### Ética
+#### Ética y Objetivos de Desarrollo Sostenible
 - [Recomendación sobre la Ética de la Inteligencia Artificial](https://es.unesco.org/artificial-intelligence/ethics)\
 Recomendaciones de la UNESCO sobre regulación de la IA.
 - [Moral Machine](https://www.moralmachine.net/)\
 Plataforma para recopilar una perspectiva humana sobre las decisiones morales tomadas por las máquinas inteligentes, como los coches autónomos.
 - [Will robots take my job?](https://willrobotstakemyjob.com/)\
 Dada una profesión calcula el riesgo de automatización que tendrá en un futuro.
-
-#### ODS
 - [Inteligencia artificial y desarrollo sostenible](https://www.sostenibilidad.com/desarrollo-sostenible/la-alianza-entre-inteligencia-artificial-y-desarrollo-sostenible/)\
 Artículo que nos da ejemplos sobre como puede contribuir la AI al desarrollo sostenible.
 - [Cómo la Inteligencia Artificial puede ayudar a combatir la pobreza](https://www.dell.com/es-es/blog/como-la-inteligencia-artificial-puede-ayudar-a-combatir-la-pobreza/)\
