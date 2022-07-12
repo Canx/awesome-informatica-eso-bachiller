@@ -50,6 +50,9 @@ Recursos de inteligencia artificial para niveles K12.
 - [Elements of AI](https://course.elementsofai.com/es/)\
 Curso online de introducción a la IA.
 
+- [Libro online de IAAR](https://iaarbook.github.io/inteligencia-artificial/)\
+Libro Online de la comunidad de Inteligencia Artificial Argentina.
+
 #### Actividades
 - [Inteligencia artificial en el aula con Scratch 3.0](https://code.intef.es/prop_didacticas/inteligencia-artificial-en-el-aula-con-scratch-3-0/) ![](https://img.shields.io/badge/-Scratch3-orange) ![](https://img.shields.io/badge/-ML4K-blue)\
 Propuesta del INTEF donde se implementa un asistente virtual con programación clásica (con Scratch 3.0), se analizan sus problemas y se implementa una solución con aprendizaje automático.
