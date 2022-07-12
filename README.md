@@ -16,41 +16,7 @@ Recursos de seguridad en Internet para niños.
 - [Libro "Pensamiento Computacional y Currículum. Algo más que aprender a programar"](https://canaltic.com/blog/?p=4992)\
 Recorrido por distintas líneas educativas relacionadas con el pensamiento computacional. Contiene multitud de recursos sobre programación, robótica y inteligencia artificial.
 
-### Hardware, librerías y herramientas
-
-#### Programación
-- [Scratch3](https://scratch.mit.edu/) ![](https://img.shields.io/badge/-Scratch3-orange)\
-Plataforma de programación por bloques Open Source.
-- [Dr. Scratch](http://www.drscratch.org)\
-Herramienta para análisis y validación de proyectos de Scratch3.
-- [p5.js](https://p5js.org/)\
-Biblioteca de JavaScript para la programación creativa, con editor web.
-
-#### Inteligencia artificial
-- [ML4K](https://machinelearningforkids.co.uk/scratch3/) ![](https://img.shields.io/badge/-ML4K-blue)\
-Machine Learning For Kids (ML4K) es una versión de Scratch3 con extensiones de aprendizaje automático, con modelos preentrenados.
-- [LearningML](https://web.learningml.org/)\
-Alternativa OpenSource a TeachableMachine. Tiene una [versión de Scratch](https://learningml.org/scratch/) con extensiones específicas. Está inspirado en ML4K.
-- [ml5.js](https://ml5js.org/)\
-Biblioteca de aprendizaje automático orientado al principiante. Usable desde el navegador con el editor web de p5.js. Prueba los modelos preentrenados [aquí](https://examples.ml5js.org/).
-- [Teachable Machine](https://teachablemachine.withgoogle.com/)\
-Creación de modelos de aprendizaje automático de forma sencilla y visual. Exporta a Javascript y p5.js.
-
-#### Robótica
-- [Microbit](https://microbit.org/) ![](https://img.shields.io/badge/-microbit-green)\
-Placa con microcontrolador orientada a la enseñanza. Programable a través de Scratch / makeCode / Python.
-- [pyscrlink](https://github.com/kawasaki/pyscrlink)\
-Herramienta para enlazar las microbit por bluetooth desde Linux.
-- [Microbit More](https://microbit-more.github.io/)\
-Extensión de Scratch para aprovechar las capacidades de la v2 de la placa microbit.
-- [Maqueen](https://www.dfrobot.com/product-1783.html)\
-Robot que utiliza como base una microbit.
-- [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)\
-Otro robot para microbit.
-- [Open Roberta](https://www.open-roberta.org/)\
-Plataforma [open source](https://github.com/OpenRoberta/openroberta-lab) de programación por bloques orientado a la robótica. Soporta las siguientes plataformas en modo simulación (sin hardware): Lego Mindstorms EV3, Lego Mindstorms NXT, mBot, Calliope mini y Micro:bit. Y muchos más en modo real. 
-
-### Recursos de programación
+### Recursos didácticos de programación
 
 #### Programación por bloques
 
@@ -68,9 +34,20 @@ Canal de Youtube dedicado a la programación creativa a mediante proyectos.
 - [Code! Programming with p5.js](https://thecodingtrain.com/tracks/code-programming-with-p5-js)\
 Curso de programación basado en p5.js: variables, lógica condicional, bucles, funciones, objetos y arrays.
 
+#### Hardware, librerías y herramientas
+- [Scratch3](https://scratch.mit.edu/) ![](https://img.shields.io/badge/-Scratch3-orange)\
+Plataforma de programación por bloques Open Source.
+- [Dr. Scratch](http://www.drscratch.org)\
+Herramienta para análisis y validación de proyectos de Scratch3.
+- [p5.js](https://p5js.org/)\
+Biblioteca de JavaScript para la programación creativa, con editor web.
+
 ### Recursos didácticos de Inteligencia artificial
 
-[Elements of AI](https://course.elementsofai.com/es/)\
+- [AI4K12](https://ai4k12.org/)\
+Recursos de inteligencia artificial para niveles K12.
+
+- [Elements of AI](https://course.elementsofai.com/es/)\
 Curso online de introducción a la IA.
 
 #### Actividades
@@ -94,12 +71,20 @@ Artículo que nos da ejemplos sobre como puede contribuir la AI al desarrollo so
 Ejemplos de como la IA puede ayudar a combatir la pobreza y el hambre: optimizar cultivos, predicción de areas de pobreza para mejorar las respuestas humanitarias,...
 
 #### Otros
-- [AI4K12](https://ai4k12.org/)\
-Recursos de inteligencia artificial para niveles K12.
 - [IA in Education (ISTE)](https://www.iste.org/es/areas-of-focus/AI-in-education)\
 Asociación de profesores que crea recursos de tecnología, pensamiento computacional y inteligencia artificial.
 - [Introducing Machine Learning with Scratch and Robots as a Pilot Program for K-12 Computer Science Education](https://www.researchgate.net/publication/349657124_Introducing_Machine_Learning_with_Scratch_and_Robots_as_a_Pilot_Program_for_K-12_Computer_Science_Education)\
 Paper donde se explica la experiencia de aplicar programación, AI y robótica en cursos K12. Hay ejemplos de proyectos y resultados obtenidos.
+
+#### Hardware, librerías y herramientas
+- [ML4K](https://machinelearningforkids.co.uk/scratch3/) ![](https://img.shields.io/badge/-ML4K-blue)\
+Machine Learning For Kids (ML4K) es una versión de Scratch3 con extensiones de aprendizaje automático, con modelos preentrenados.
+- [LearningML](https://web.learningml.org/)\
+Alternativa OpenSource a TeachableMachine. Tiene una [versión de Scratch](https://learningml.org/scratch/) con extensiones específicas. Está inspirado en ML4K.
+- [ml5.js](https://ml5js.org/)\
+Biblioteca de aprendizaje automático orientado al principiante. Usable desde el navegador con el editor web de p5.js. Prueba los modelos preentrenados [aquí](https://examples.ml5js.org/).
+- [Teachable Machine](https://teachablemachine.withgoogle.com/)\
+Creación de modelos de aprendizaje automático de forma sencilla y visual. Exporta a Javascript y p5.js.
 
 ### Recursos didácticos de Robótica
 
@@ -108,10 +93,22 @@ Paper donde se explica la experiencia de aplicar programación, AI y robótica e
 Tareas para el robot Maqueen, por Pedro Ruiz.
 - [Explora amb la microbit](https://projectes.xtec.cat/programacioirobotica/portada/materials-didactics-de-microbit-publicats-a-lalexandria/)\
 Cursos de microbit para primaria y ESO.
-
-### Robótica + IA
 - [How to train your robot](https://httyr.media.mit.edu/)\
 Programa de actividades basado en Scratch + Cutebot + microbit + teachableMachine.
+
+#### Hardware, librerías y herramientas
+- [Microbit](https://microbit.org/) ![](https://img.shields.io/badge/-microbit-green)\
+Placa con microcontrolador orientada a la enseñanza. Programable a través de Scratch / makeCode / Python.
+- [pyscrlink](https://github.com/kawasaki/pyscrlink)\
+Herramienta para enlazar las microbit por bluetooth desde Linux.
+- [Microbit More](https://microbit-more.github.io/)\
+Extensión de Scratch para aprovechar las capacidades de la v2 de la placa microbit.
+- [Maqueen](https://www.dfrobot.com/product-1783.html)\
+Robot que utiliza como base una microbit.
+- [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)\
+Otro robot para microbit.
+- [Open Roberta](https://www.open-roberta.org/)\
+Plataforma [open source](https://github.com/OpenRoberta/openroberta-lab) de programación por bloques orientado a la robótica. Soporta las siguientes plataformas en modo simulación (sin hardware): Lego Mindstorms EV3, Lego Mindstorms NXT, mBot, Calliope mini y Micro:bit. Y muchos más en modo real. 
 
 ## Programación, redes y sistemas informáticos I (1º bachiller)
 
