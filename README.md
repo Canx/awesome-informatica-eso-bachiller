@@ -50,7 +50,7 @@ Otro robot para microbit.
 - [Open Roberta](https://www.open-roberta.org/)\
 Plataforma [open source](https://github.com/OpenRoberta/openroberta-lab) de programación por bloques orientado a la robótica. Soporta las siguientes plataformas en modo simulación (sin hardware): Lego Mindstorms EV3, Lego Mindstorms NXT, mBot, Calliope mini y Micro:bit. Y muchos más en modo real. 
 
-### Programación
+### Recursos de programación
 
 #### Programación por bloques
 
@@ -68,7 +68,7 @@ Canal de Youtube dedicado a la programación creativa a mediante proyectos.
 - [Code! Programming with p5.js](https://thecodingtrain.com/tracks/code-programming-with-p5-js)\
 Curso de programación basado en p5.js: variables, lógica condicional, bucles, funciones, objetos y arrays.
 
-### Inteligencia artificial
+### Recursos didácticos de Inteligencia artificial
 
 [Elements of AI](https://course.elementsofai.com/es/)\
 Curso online de introducción a la IA.
@@ -101,7 +101,7 @@ Asociación de profesores que crea recursos de tecnología, pensamiento computac
 - [Introducing Machine Learning with Scratch and Robots as a Pilot Program for K-12 Computer Science Education](https://www.researchgate.net/publication/349657124_Introducing_Machine_Learning_with_Scratch_and_Robots_as_a_Pilot_Program_for_K-12_Computer_Science_Education)\
 Paper donde se explica la experiencia de aplicar programación, AI y robótica en cursos K12. Hay ejemplos de proyectos y resultados obtenidos.
 
-### Robótica
+### Recursos didácticos de Robótica
 
 #### Actividades
 - [Maqueen retos](https://pedroruizf.github.io/maqueen_retos/)\
