@@ -115,6 +115,11 @@ Plataforma [open source](https://github.com/OpenRoberta/openroberta-lab) de prog
 
 ## Programación, redes y sistemas informáticos I (1º bachiller)
 
+### Objetivos de desarrollo sostenible
+- [Our World in Data](https://ourworldindata.org/)\
+Datasets relacionados con los ODS.
+- [The Shift Data Portal](https://www.theshiftdataportal.org/)\
+Datasets de energía y clima.
 
 ## Proyectos interdisciplinares
 > Recursos para posibles proyectos interdisciplinares con otros departamentos
