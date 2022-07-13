@@ -84,6 +84,9 @@ Paper donde se explica la experiencia de aplicar programación, AI y robótica e
 Machine Learning For Kids (ML4K) es una versión de Scratch3 con extensiones de aprendizaje automático, con modelos preentrenados.
 - [LearningML](https://web.learningml.org/)\
 Alternativa OpenSource a TeachableMachine. Tiene una [versión de Scratch](https://learningml.org/scratch/) con extensiones específicas. Está inspirado en ML4K.
+- [Stretch3](https://stretch3.github.io/)\
+Versión de Scratch con extensiones de IA y robótica: Microbit More, TM2Scratch, posenet2Scratch,...
+
 - [ml5.js](https://ml5js.org/)\
 Biblioteca de aprendizaje automático orientado al principiante. Usable desde el navegador con el editor web de p5.js. Prueba los modelos preentrenados [aquí](https://examples.ml5js.org/).
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)\
