@@ -6,6 +6,10 @@
 * [Programación, redes y sistemas informáticos I (1BACH)](https://github.com/Canx/awesome-informatica-eso-bachiller/blob/main/README.md#programaci%C3%B3n-redes-y-sistemas-inform%C3%A1ticos-i-1%C2%BA-bachiller)
 * [Proyectos interdisciplinares](https://github.com/Canx/awesome-informatica-eso-bachiller/blob/main/README.md#proyectos-interdisciplinares)
 
+> Iconos
+
+:beginner: Principiante
+
 
 ## Taller de relaciones digitales saludables (1ESO)
 - [IS4K](https://www.is4k.es/)\
