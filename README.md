@@ -8,7 +8,8 @@
 
 > Iconos
 
-:beginner: Principiante
+:heavy_check_mark: Principiante
+:heavy_exclamation_mark: Avanzado
 
 
 ## Taller de relaciones digitales saludables (1ESO)
@@ -93,11 +94,11 @@ Versión de Scratch con extensiones de IA y robótica: Microbit More, TM2Scratch
 
 - [ml5.js](https://ml5js.org/)\
 Biblioteca de aprendizaje automático orientado al principiante. Usable desde el navegador con el editor web de p5.js. Prueba los modelos preentrenados [aquí](https://examples.ml5js.org/).
-- [Teachable Machine](https://teachablemachine.withgoogle.com/)\
-Creación de modelos de aprendizaje automático de forma sencilla y visual. Exporta a Javascript y p5.js. [PRINCIPIANTE/INTERMEDIO]
+- :heavy_check_mark: [Teachable Machine](https://teachablemachine.withgoogle.com/)\
+Creación de modelos de aprendizaje automático de forma sencilla y visual. Exporta a Javascript y p5.js.
 
-- [Hugging Face](https://huggingface.co/)\
-Modelos, datasets, instancias y comunidad IA. [AVANZADO]
+- :heavy_exclamation_mark: [Hugging Face](https://huggingface.co/)\
+Modelos, datasets, instancias y comunidad IA.
 
 ### Recursos didácticos de Robótica
 
