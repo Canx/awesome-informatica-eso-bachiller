@@ -90,7 +90,10 @@ Versión de Scratch con extensiones de IA y robótica: Microbit More, TM2Scratch
 - [ml5.js](https://ml5js.org/)\
 Biblioteca de aprendizaje automático orientado al principiante. Usable desde el navegador con el editor web de p5.js. Prueba los modelos preentrenados [aquí](https://examples.ml5js.org/).
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)\
-Creación de modelos de aprendizaje automático de forma sencilla y visual. Exporta a Javascript y p5.js.
+Creación de modelos de aprendizaje automático de forma sencilla y visual. Exporta a Javascript y p5.js. [PRINCIPIANTE/INTERMEDIO]
+
+- [Hugging Face](https://huggingface.co/)\
+Modelos, datasets, instancias y comunidad IA. [AVANZADO]
 
 ### Recursos didácticos de Robótica
 
@@ -108,7 +111,7 @@ Placa con microcontrolador orientada a la enseñanza. Programable a través de S
 - [pyscrlink](https://github.com/kawasaki/pyscrlink)\
 Herramienta para enlazar las microbit por bluetooth desde Linux.
 - [Microbit More](https://microbit-more.github.io/)\
-Extensión de Scratch para aprovechar las capacidades de la v2 de la placa microbit.
+Extensión de Scratch para aprovechar las capacidades de la placa microbit v2.
 - [Maqueen](https://www.dfrobot.com/product-1783.html)\
 Robot que utiliza como base una microbit.
 - [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)\
