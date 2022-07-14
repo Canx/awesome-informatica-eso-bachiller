@@ -8,8 +8,8 @@
 
 > Iconos
 
-:heavy_check_mark: Principiante
-:heavy_exclamation_mark: Avanzado
+* :heavy_check_mark: Principiante
+* :heavy_exclamation_mark: Avanzado
 
 
 ## Taller de relaciones digitales saludables (1ESO)
