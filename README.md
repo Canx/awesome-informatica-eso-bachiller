@@ -131,6 +131,8 @@ Un recurso interactivo en línea para alumnos de secundaria que estén aprendien
 ### Programación
 - [Aprende Python](https://aprendepython.es/)\
 Curso clásico de programación en Python. A parte de las estructuras básicas de ve la parte de texto de stdlib, ciencia de datos (jupyter, numpy, pandas y matplotlib) y scrapping.
+- [Curso de Python (mclibre)](https://www.mclibre.org/consultar/python/)\
+Apuntes de iniciación a la programación con Python.
 
 ### Objetivos de desarrollo sostenible
 - [Our World in Data](https://ourworldindata.org/)\
