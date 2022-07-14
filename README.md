@@ -126,6 +126,10 @@ Plataforma [open source](https://github.com/OpenRoberta/openroberta-lab) de prog
 
 ## Programación, redes y sistemas informáticos I (1º bachiller)
 
+### Programación
+- [Aprende Python](https://aprendepython.es/)\
+Curso clásico de programación en Python. A parte de las estructuras básicas de ve la parte de texto de stdlib, ciencia de datos (jupyter, numpy, pandas y matplotlib) y scrapping.
+
 ### Objetivos de desarrollo sostenible
 - [Our World in Data](https://ourworldindata.org/)\
 Datasets relacionados con los ODS.
