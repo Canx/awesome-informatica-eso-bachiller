@@ -5,3 +5,8 @@
 * [Programación, inteligencia artificial y robótica (2ESO y 3ESO)](https://github.com/Canx/awesome-informatica-eso-bachiller/blob/main/PIAR.md)
 * [Programación, redes y sistemas informáticos I (1BACH)](https://github.com/Canx/awesome-informatica-eso-bachiller/blob/main/PRSI-BACHILLER.md)
 * [Proyectos interdisciplinares](https://github.com/Canx/awesome-informatica-eso-bachiller/blob/main/README.md#proyectos-interdisciplinares)
+
+# Metodología
+
+* [The big book of computer pedagogy](https://helloworld.raspberrypi.org/issues/0)
+
