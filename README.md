@@ -9,5 +9,5 @@
 # Metodología
 
 * [The big book of computer pedagogy](https://helloworld.raspberrypi.org/issues/0)
-*[Teach Tech Together](https://teachtogether.tech/)
+* [Teach Tech Together](https://teachtogether.tech/)
 
