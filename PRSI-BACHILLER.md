@@ -4,6 +4,9 @@
 Un recurso interactivo en línea para alumnos de secundaria que estén aprendiendo informática. Contenidos sobre: algoritmos, lenguajes de programación, representación y codificación de datos, seguridad, AI, gráficos, redes, ingeniería de software, Big Data y lenguajes formales.
 ## Programación
 
+-[CheckIO](https://checkio.org/)\
+Curso de programación en Python y Typescript, basado en tests y gamificación.
+
 ### Python
 - [Aprende Python](https://aprendepython.es/)\
 Curso clásico de programación en Python. A parte de las estructuras básicas de ve la parte de texto de stdlib, ciencia de datos (jupyter, numpy, pandas y matplotlib) y scrapping.
