@@ -77,6 +77,9 @@ Versión de Scratch con extensiones de IA y robótica: Microbit More, TM2Scratch
 - [ML2Scratch](https://github.com/champierre/ml2scratch)\
 Extensión de Scratch que permite entrenar y inferir dentro de Scratch, sin dependencias externas. El modelo se puede descargar y cargar desde un programa de Scratch.
 
+- [akvcam](https://github.com/webcamoid/akvcam)\
+Herramienta para crear una cámara virtual y enlazarla con una por red (puede ser útil para no tener que comprar muchas cámaras).
+
 - [ml5.js](https://ml5js.org/)\
 Biblioteca de aprendizaje automático orientado al principiante. Usable desde el navegador con el editor web de p5.js. Prueba los modelos preentrenados [aquí](https://examples.ml5js.org/).
 - :heavy_check_mark: [Teachable Machine](https://teachablemachine.withgoogle.com/)\
@@ -108,6 +111,3 @@ Robot que utiliza como base una microbit.
 Otro robot para microbit.
 - [Open Roberta](https://www.open-roberta.org/)\
 Plataforma [open source](https://github.com/OpenRoberta/openroberta-lab) de programación por bloques orientado a la robótica. Soporta las siguientes plataformas en modo simulación (sin hardware): Lego Mindstorms EV3, Lego Mindstorms NXT, mBot, Calliope mini y Micro:bit. Y muchos más en modo real. 
-
--[akvcam](https://github.com/webcamoid/akvcam)\
-Herramienta para crear una cámara virtual y enlazarla con una por red (puede ser útil para no tener que comprar muchas cámaras).
