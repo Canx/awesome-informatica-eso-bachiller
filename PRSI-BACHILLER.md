@@ -25,6 +25,9 @@ Intérprete de SQL basado en navegador, utiliza SQLite como base de datos y la l
 [Apuntes sobre Docker](https://didweb.gitbooks.io/docker/content/portada.html)\
 Apuntes sencillos sobre Docker.
 
+[Taller de Docker](https://aulasoftwarelibre.github.io/taller-de-docker/)
+Introduce docker y docker-compose, haciendo un ejemplo con Wordpress.
+
 ## Objetivos de desarrollo sostenible
 - [Our World in Data](https://ourworldindata.org/)\
 Datasets relacionados con los ODS.
