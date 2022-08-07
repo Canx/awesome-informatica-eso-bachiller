@@ -5,3 +5,5 @@ Recursos de seguridad en Internet para niños.
 Teoría y elaboración de 4 sesiones sobre redes sociales.
 - [Cyberscouts](https://cyberscouts.osi.es/)\
 Juego para aprender seguridad en la red.
+- [DarkPattern.games](https://www.darkpattern.games/)\
+Sitio web de revisión de juegos para detectar patrones adictivos. Es posible ampliar la base de datos.
