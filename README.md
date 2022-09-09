@@ -13,3 +13,6 @@
 * [CS for ALL: Teaching All Computational Thinking through Inclusion and Collaboration](https://ctrl.education.ufl.edu/projects/tactic/)
 * [The UDL project](https://www.theudlproject.com/)
 
+# Colaboraciones
+
+Las colaboraciones son bienvenidas a través de [Issues](https://github.com/Canx/awesome-informatica-eso-bachiller/issues) o pull-requests
