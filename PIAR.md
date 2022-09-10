@@ -11,9 +11,11 @@ Recorrido por distintas líneas educativas relacionadas con el pensamiento compu
 Guía para crear actividades y proyectos con Scratch que potencien la creatividad y la planificación, evitando el ir paso-a-paso. Contiene ejemplos.
 - [Computación Creativa: Evaluando La Creatividad en Clases](https://scratchalsur.org/sitio_2021/wordpress/wp-content/uploads/2022/03/COMPUTACION-CREATIVA-EVALUANDO-LA-CREATIVIDAD-EN-CLASES.pdf)\
 Guía para evaluar proyectos creativos con Scratch. Contiene ejemplos de proyectos creativos y sus rúbricas de evaluación.
-
 - [Scratch School](https://www.scratch.school/)\
 Cursos y proyectos de Scratch.
+- [CS First](https://csfirst.withgoogle.com/)\
+Cursos de programación con Scratch para principantes. Cada curso dura unas 8 o 10 sesiones.
+
 
 ### Programación escrita
 - [The coding train](https://thecodingtrain.com/)\
