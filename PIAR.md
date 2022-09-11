@@ -15,7 +15,7 @@ Guía para evaluar proyectos creativos con Scratch. Contiene ejemplos de proyect
 Cursos y proyectos de Scratch.
 - [CS First](https://csfirst.withgoogle.com/)\
 Cursos de programación con Scratch para principantes. Cada curso dura unas 8 o 10 sesiones.
-- [Practice CS problems with Scratch](http://www.abhayjoshi.net/spark/scratch/book0s/PracticeWithScratch.pdf)
+- [Practice CS problems with Scratch](http://www.abhayjoshi.net/spark/scratch/book0s/PracticeWithScratch.pdf)\
 Libro con muchos ejercicios más avanzados de Scratch.
 
 
