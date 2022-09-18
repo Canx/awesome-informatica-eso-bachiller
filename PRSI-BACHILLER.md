@@ -12,6 +12,8 @@ Curso de programación en Python y Typescript, basado en tests y gamificación.
 Curso clásico de programación en Python. A parte de las estructuras básicas de ve la parte de texto de stdlib, ciencia de datos (jupyter, numpy, pandas y matplotlib) y scrapping.
 - [Curso de Python (mclibre)](https://www.mclibre.org/consultar/python/)\
 Apuntes de iniciación a la programación con Python.
+- [Manual de prácticas para Python. Desde CERO](https://lacienciaparatodos.wordpress.com/2019/10/10/manual-de-practicas-para-python-desde-cero/)\
+Prácticas básicas para aprender el lenguaje de programación Python.
 
 
 ### Bases de datos
