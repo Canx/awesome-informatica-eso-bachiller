@@ -25,6 +25,8 @@ Cursos de programación con Scratch para principantes. Cada curso dura unas 8 o 
 Libro con muchos proyectos que explica conceptos avanzados de Scratch. Disponible en Amazon.
 - [Practice CS problems with Scratch](http://www.abhayjoshi.net/spark/scratch/book0s/PracticeWithScratch.pdf)\
 Libro con ejercicios avanzados de Scratch. Es la extensión del libro anterior y es gratuito.
+- [Proyectos de programación orientados a las matemáticas](https://gist.github.com/Canx/8f299601ad508d867b622819e8d19625)\
+Sacados del libro ["Mejora en Matemáticas con Scratch"](https://www.amazon.es/Mejora-Matem%C3%A1ticas-Scratch-Garrido-Barrientos/dp/B09F16R2DS)
 
 ### Programación escrita
 - [The coding train](https://thecodingtrain.com/)\
