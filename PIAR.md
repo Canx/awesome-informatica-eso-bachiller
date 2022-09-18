@@ -8,7 +8,7 @@
 - [Libro "Pensamiento Computacional y Currículum. Algo más que aprender a programar"](https://canaltic.com/blog/?p=4992)\
 Recorrido por distintas líneas educativas relacionadas con el pensamiento computacional. Contiene multitud de recursos sobre programación, robótica y inteligencia artificial.
 
-- [Actividades desenchufadas para trabajar el pensamiento computacional]https://programamos.es/recopilacion-de-actividades-desenchufadas-para-trabajar-el-pensamiento-computacional/)\
+- [Actividades desenchufadas para trabajar el pensamiento computacional](https://programamos.es/recopilacion-de-actividades-desenchufadas-para-trabajar-el-pensamiento-computacional/)\
 Conjunto de actividades sin ordenador para trabajar el pensamiento computacional: divide y vencerás, programando robots humanos, bailando en bucle, mi propio mando a distancia, cartas lógicas, Sobre variables, 
 
 ### Programación por bloques
