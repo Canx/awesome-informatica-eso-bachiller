@@ -122,5 +122,10 @@ Extensión de Scratch para aprovechar las capacidades de la placa microbit v2.
 Robot que utiliza como base una microbit.
 - [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)\
 Otro robot para microbit.
+
+### Robótica virtual
 - [Open Roberta](https://www.open-roberta.org/)\
 Plataforma [open source](https://github.com/OpenRoberta/openroberta-lab) de programación por bloques orientado a la robótica. Soporta las siguientes plataformas en modo simulación (sin hardware): Lego Mindstorms EV3, Lego Mindstorms NXT, mBot, Calliope mini y Micro:bit. Y muchos más en modo real. 
+
+- [Vexcode VR](https://vr.vex.com/)\
+Plataforma cerrada basada en Scratch para programación por bloques y por código (Python) de un robot virtual. Tiene una versión libre y otra mejorada (que es gratis hasta otoño de 2023) con la que se pueden gestionar los alumnos.
