@@ -7,6 +7,9 @@ Un recurso interactivo en línea para alumnos de secundaria que estén aprendien
 * [CheckIO](https://checkio.org/)\
 Curso de programación en Python y Typescript, basado en tests y gamificación.
 
+* [CS50](https://cs50.harvard.edu/x/2022/)\
+* Curso de introducción a la programación donde se ven pinceladas de Scratch, C, Python, SQL,...
+
 ### Python
 - [Aprende Python](https://aprendepython.es/)\
 Curso clásico de programación en Python. A parte de las estructuras básicas de ve la parte de texto de stdlib, ciencia de datos (jupyter, numpy, pandas y matplotlib) y scrapping.
