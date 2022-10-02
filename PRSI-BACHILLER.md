@@ -8,7 +8,7 @@ Un recurso interactivo en línea para alumnos de secundaria que estén aprendien
 Curso de programación en Python y Typescript, basado en tests y gamificación.
 
 * [CS50](https://cs50.harvard.edu/x/2022/)\
-* Curso de introducción a la programación donde se ven pinceladas de Scratch, C, Python, SQL,...
+Curso de introducción a la programación donde se ven pinceladas de Scratch, C, Python, SQL,...
 
 ### Python
 - [Aprende Python](https://aprendepython.es/)\
