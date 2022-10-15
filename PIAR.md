@@ -39,8 +39,6 @@ Curso de programación basado en p5.js: variables, lógica condicional, bucles, 
 Plataforma de programación por bloques Open Source.
 - [Dr. Scratch](http://www.drscratch.org)\
 Herramienta para análisis y validación de proyectos de Scratch3.
-- [s3onegpio](https://github.com/MrYsLab/s3onegpio)\
-Extensión de Scratch3 que permite controlar Arduino UNO, Raspberry Pi, ESP-8266, Picoboard y Robohat.
 - [p5.js](https://p5js.org/)\
 Biblioteca de JavaScript para la programación creativa, con editor web.
 
@@ -125,6 +123,8 @@ Extensión de Scratch para aprovechar las capacidades de la placa microbit v2.
 Robot que utiliza como base una microbit.
 - [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html)\
 Otro robot para microbit.
+- [s3onegpio](https://github.com/MrYsLab/s3onegpio)\
+Extensión de Scratch3 que permite controlar Arduino UNO, Raspberry Pi, ESP-8266, Picoboard y Robohat.
 
 ### Robótica virtual
 - [Open Roberta](https://www.open-roberta.org/)\
