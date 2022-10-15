@@ -39,8 +39,11 @@ Curso de programación basado en p5.js: variables, lógica condicional, bucles, 
 Plataforma de programación por bloques Open Source.
 - [Dr. Scratch](http://www.drscratch.org)\
 Herramienta para análisis y validación de proyectos de Scratch3.
+- [s3onegpio](https://github.com/MrYsLab/s3onegpio)\
+Extensión de Scratch3 que permite controlar Arduino UNO, Raspberry Pi, ESP-8266, Picoboard y Robohat.
 - [p5.js](https://p5js.org/)\
 Biblioteca de JavaScript para la programación creativa, con editor web.
+
 
 ## Recursos didácticos de Inteligencia artificial
 
