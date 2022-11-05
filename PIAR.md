@@ -132,3 +132,6 @@ Plataforma [open source](https://github.com/OpenRoberta/openroberta-lab) de prog
 
 - [Vexcode VR](https://vr.vex.com/)\
 Plataforma cerrada basada en Scratch para programación por bloques y por código (Python) de un robot virtual. Tiene una versión libre y otra mejorada (que es gratis hasta otoño de 2023) con la que se pueden gestionar los alumnos.
+
+- [Gears](https://github.com/QuirkyCort/gears)\
+Simulador open source con posibilidad de programación por bloques y Python. Puedes cambiar los robots y los mundos, o crearlos de 0. Visión 3D. Mi favorito de momento!
