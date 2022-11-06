@@ -41,6 +41,8 @@ Plataforma de programación por bloques Open Source.
 Herramienta para análisis y validación de proyectos de Scratch3.
 - [p5.js](https://p5js.org/)\
 Biblioteca de JavaScript para la programación creativa, con editor web.
+- [E羊icques](https://github.com/SheepTester/scratch-gui)\
+Versión de Scratch3 que incorpora una extensión para cargar dinámicamente nuevas extensiones a partir de su URL.
 
 
 ## Recursos didácticos de Inteligencia artificial
