@@ -88,6 +88,9 @@ Alternativa OpenSource a TeachableMachine. Tiene una [versión de Scratch](https
 - [Stretch3](https://stretch3.github.io/)\
 Versión de Scratch con extensiones de IA y robótica: Microbit More, TM2Scratch, posenet2Scratch,...
 
+- [TM2Scratch](https://github.com/champierre/tm2scratch)\
+Extensión de Scratch que permite conectarse a un modelo entrenado de Google Teachable Machine 2 (de imagen o audio) para inferir dentro de Scratch.
+
 - [ML2Scratch](https://github.com/champierre/ml2scratch)\
 Extensión de Scratch que permite entrenar y inferir dentro de Scratch, sin dependencias externas. El modelo se puede descargar y cargar desde un programa de Scratch.
 
