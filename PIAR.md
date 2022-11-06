@@ -116,6 +116,9 @@ Tareas para el robot Maqueen, por Pedro Ruiz.
 Cursos de microbit para primaria y ESO.
 - [How to train your robot](https://httyr.media.mit.edu/)\
 Programa de actividades basado en Scratch + Cutebot + microbit + teachableMachine.
+- [Oasis Primary Robotics](https://www.aposteriori.com.sg/oasis-primary-robotics/)\
+1r semestre: Presentación y ejercicios de Gearsbot -> **lucha de robots SUMO**.
+2o trimestre: Construcción de robos físicos (Lego EV3 y Spike Prime), funcionamiento de sensores y actuadores, y ejercicio de siguelíneas.
 
 ### Hardware, librerías y herramientas
 - [Microbit](https://microbit.org/) ![](https://img.shields.io/badge/-microbit-green)\
