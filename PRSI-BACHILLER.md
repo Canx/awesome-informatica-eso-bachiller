@@ -13,11 +13,13 @@ Curso de introducción a la programación donde se ven pinceladas de Scratch, C,
 ### Python
 - [Aprende Python](https://aprendepython.es/)\
 Curso clásico de programación en Python. A parte de las estructuras básicas de ve la parte de texto de stdlib, ciencia de datos (jupyter, numpy, pandas y matplotlib) y scrapping.
+- [Aprende Python desde 0](https://futurecoder.io/)\
+Plataforma para aprender Python de forma visual e interactiva
 - [Curso de Python (mclibre)](https://www.mclibre.org/consultar/python/)\
 Apuntes de iniciación a la programación con Python.
 - [Manual de prácticas para Python. Desde CERO](https://lacienciaparatodos.wordpress.com/2019/10/10/manual-de-practicas-para-python-desde-cero/)\
 Prácticas básicas para aprender el lenguaje de programación Python.
-
+ 
 
 ### Bases de datos
 - [Online SQL interpreter](https://sql.js.org/examples/GUI/index.html)\
