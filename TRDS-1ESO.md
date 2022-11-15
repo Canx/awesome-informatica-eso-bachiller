@@ -3,6 +3,8 @@
 Recursos de seguridad en Internet para niños.
 - [Comprensión y creación de imágenes en las redes sociales](https://libros.uam.es/tfm/catalog/download/502/905/706?inline=1)\
 Teoría y elaboración de 4 sesiones sobre redes sociales.
+- [OSI](https://www.osi.es/)\
+Oficina de Seguridad del Internauta. Recursos sobre seguridad online.
 - [Cyberscouts](https://cyberscouts.osi.es/)\
 Juego para aprender seguridad en la red.
 - [Se genial en Internet](https://beinternetawesome.withgoogle.com/))\
