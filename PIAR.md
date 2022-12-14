@@ -110,6 +110,9 @@ Creación de modelos de aprendizaje automático de forma sencilla y visual. Expo
 - :heavy_exclamation_mark: [Hugging Face](https://huggingface.co/)\
 Modelos, datasets, instancias y comunidad IA.
 
+- [Deep playground](http://playground.tensorflow.org/)\
+Herramienta de visualización interactiva de redes neuronales.
+
 ## Recursos didácticos de Robótica
 
 ### Actividades
