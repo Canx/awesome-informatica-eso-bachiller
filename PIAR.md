@@ -113,6 +113,9 @@ Modelos, datasets, instancias y comunidad IA.
 - [Deep playground](http://playground.tensorflow.org/)\
 Herramienta de visualización interactiva de redes neuronales.
 
+- [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/)\
+Biblioteca de Javascript para entrenar modelos de aprendizaje profundo (redes neuronales) completamente en el navegador.
+
 ## Recursos didácticos de Robótica
 
 ### Actividades
