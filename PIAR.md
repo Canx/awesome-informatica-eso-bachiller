@@ -119,6 +119,9 @@ Herramienta de visualización interactiva de redes neuronales.
 - [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/)\
 Biblioteca de Javascript para entrenar modelos de aprendizaje profundo (redes neuronales) completamente en el navegador.
 
+- [Neuronica](https://extensions.libreoffice.org/en/extensions/show/neuronica)
+Extensión de Libreoffice Calc que permite crear redes neuronales para hacer entrenamiento y test de datos. El modelo entrenado se puede guardar en una hoja para ser reutilizado.
+
 ## Recursos didácticos de Robótica
 
 ### Actividades
