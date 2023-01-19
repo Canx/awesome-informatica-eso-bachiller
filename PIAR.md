@@ -62,6 +62,9 @@ Curso de introducción al aprendizaje automático, no se explica cómo implement
 - [A people's guide to AI](https://alliedmedia.org/resources/peoples-guide-to-ai)\
 Libro introductorio sobre Inteligencia Artificial: IA en nuestro día a dia, algoritmos, aprendizaje automático y ética. 80 páginas.
 
+- [The Awesome Teachable Machine List](https://github.com/SashiDo/awesome-teachable-machine)\
+Lista de recursos para trabajar Teachable Machine.
+
 ### Actividades
 - [Inteligencia artificial en el aula con Scratch 3.0](https://code.intef.es/prop_didacticas/inteligencia-artificial-en-el-aula-con-scratch-3-0/) ![](https://img.shields.io/badge/-Scratch3-orange) ![](https://img.shields.io/badge/-ML4K-blue)\
 Propuesta del INTEF donde se implementa un asistente virtual con programación clásica (con Scratch 3.0), se analizan sus problemas y se implementa una solución con aprendizaje automático.
