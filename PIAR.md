@@ -96,17 +96,6 @@ Paper donde se explica la experiencia de aplicar programación, AI y robótica e
 Machine Learning For Kids (ML4K) es una versión de Scratch3 con extensiones de aprendizaje automático, con modelos preentrenados.
 - [LearningML](https://web.learningml.org/)\
 Alternativa OpenSource a TeachableMachine. Tiene una [versión de Scratch](https://learningml.org/scratch/) con extensiones específicas. Está inspirado en ML4K.
-- [Stretch3](https://stretch3.github.io/)\
-Versión de Scratch con extensiones de IA y robótica: Microbit More, TM2Scratch, posenet2Scratch,...
-
-- [TM2Scratch](https://github.com/champierre/tm2scratch)\
-Extensión de Scratch que permite conectarse a un modelo entrenado de Google Teachable Machine 2 (de imagen o audio) para inferir dentro de Scratch.
-
-- [ML2Scratch](https://github.com/champierre/ml2scratch)\
-Extensión de Scratch que permite entrenar y inferir dentro de Scratch, sin dependencias externas. El modelo se puede descargar y cargar desde un programa de Scratch.
-
-- [akvcam](https://github.com/webcamoid/akvcam)\
-Herramienta para crear una cámara virtual y enlazarla con una por red (puede ser útil para no tener que comprar muchas cámaras).
 
 - [ml5.js](https://ml5js.org/)\
 Biblioteca de aprendizaje automático orientado al principiante. Usable desde el navegador con el editor web de p5.js. Prueba los modelos preentrenados [aquí](https://examples.ml5js.org/).
@@ -124,6 +113,20 @@ Biblioteca de Javascript para entrenar modelos de aprendizaje profundo (redes ne
 
 - [Neuronica](https://extensions.libreoffice.org/en/extensions/show/neuronica)
 Extensión de Libreoffice Calc que permite crear redes neuronales para hacer entrenamiento y test de datos. El modelo entrenado se puede guardar en una hoja para ser reutilizado.
+
+- [akvcam](https://github.com/webcamoid/akvcam)\
+Herramienta para crear una cámara virtual y enlazarla con una por red (puede ser útil para no tener que comprar muchas cámaras).
+
+#### Extensiones de Scratch
+
+- [Stretch3](https://stretch3.github.io/)\
+Versión de Scratch con extensiones de IA y robótica: Microbit More, TM2Scratch, posenet2Scratch,...
+
+- [TM2Scratch](https://github.com/champierre/tm2scratch)\
+Extensión de Scratch que permite conectarse a un modelo entrenado de Google Teachable Machine 2 (de imagen o audio) para inferir dentro de Scratch.
+
+- [ML2Scratch](https://github.com/champierre/ml2scratch)\
+Extensión de Scratch que permite entrenar y inferir dentro de Scratch, sin dependencias externas. El modelo se puede descargar y cargar desde un programa de Scratch.
 
 ## Recursos didácticos de Robótica
 
