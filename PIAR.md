@@ -128,6 +128,9 @@ Extensión de Scratch que permite conectarse a un modelo entrenado de Google Tea
 - [ML2Scratch](https://github.com/champierre/ml2scratch)\
 Extensión de Scratch que permite entrenar y inferir dentro de Scratch, sin dependencias externas. El modelo se puede descargar y cargar desde un programa de Scratch.
 
+- [Posenet2Scratch](https://github.com/champierre/posenet2scratch)\
+Extensión de Scratch con un modelo preentrenado para detectar poses con la webcam. Detecta la posición dentro de la imagen de cada elemento del cuerpo y de la cara. Puede contar el número de personas y la posición de cada elemento dentro de cada persona.
+
 ## Recursos didácticos de Robótica
 
 ### Actividades
