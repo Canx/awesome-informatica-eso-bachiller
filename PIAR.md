@@ -65,8 +65,8 @@ Libro introductorio sobre Inteligencia Artificial: IA en nuestro día a dia, alg
 - [The Awesome Teachable Machine List](https://github.com/SashiDo/awesome-teachable-machine)\
 Lista de recursos para trabajar Teachable Machine.
 
-- [Dancing with AI](https://github.com/dancingwithai/dancingwithai.github.io)\
-Currículum de IA con Scratch, con ejercicios, presentaciones y un [fork de Scratch](https://playground.raise.mit.edu/create/) con extensiones específicas:
+- [Raise Playground](https://playground.raise.mit.edu/)\
+Contiene varios currículums de IA: [Dancing with AI](https://github.com/dancingwithai/dancingwithai.github.io) y "How to train your robot" entre otros. Además tiene su propio [fork de Scratch](https://playground.raise.mit.edu/create/) con las extensiones siguientes:
   - TeachableMachine: enlaza un modelo de imagen por URL y conecta la webcam para predecir su clase.
   - HandSensing: contiene un modelo que detecta en la webcam la posición de los dedos de la mano.
   - FaceSensing: contiene un modelo que detecta la posición de las partes de la cara así como expresiones concretas (sonrisa, boca abierta, etc..)
