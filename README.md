@@ -9,7 +9,7 @@
 
 # Metodología
 
-* [The big book of computer pedagogy](https://helloworld.raspberrypi.org/issues/0)
+* [The big book of computer pedagogy](https://www.raspberrypi.org/hello-world/issues/the-big-book-of-computing-pedagogy)
 * [Teach Tech Together](https://teachtogether.tech/)
 * [CS for ALL: Teaching All Computational Thinking through Inclusion and Collaboration](https://ctrl.education.ufl.edu/projects/tactic/)
 * [The UDL project](https://www.theudlproject.com/)
