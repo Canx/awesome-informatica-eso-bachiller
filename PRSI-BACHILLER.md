@@ -4,6 +4,9 @@
 Un recurso interactivo en línea para alumnos de secundaria que estén aprendiendo informática. Contenidos sobre: algoritmos, lenguajes de programación, representación y codificación de datos, seguridad, AI, gráficos, redes, ingeniería de software, Big Data y lenguajes formales.
 ## Programación
 
+* [freeCodeCamp](https://www.freecodecamp.org/)\
+cursos y certificaciones gratuitas de programación.
+
 * [CheckIO](https://checkio.org/)\
 Curso de programación en Python y Typescript, basado en tests y gamificación.
 
