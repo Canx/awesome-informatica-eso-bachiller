@@ -34,6 +34,10 @@ Canal de Youtube dedicado a la programación creativa a mediante proyectos.
 - [Code! Programming with p5.js](https://thecodingtrain.com/tracks/code-programming-with-p5-js)\
 Curso de programación basado en p5.js: variables, lógica condicional, bucles, funciones, objetos y arrays.
 
+#### Python
+- [Invent with Python](gh repo clone Canx/awesome-informatica-eso-bachiller)\
+Inventa tus propios juegos de computadora con Python te enseña a programar en Python. Cada capítulo contiene el código fuente completo de un nuevo juego y la explicación paso a paso de cómo funciona.
+
 ### Hardware, librerías y herramientas
 - [Scratch3](https://scratch.mit.edu/) ![](https://img.shields.io/badge/-Scratch3-orange)\
 Plataforma de programación por bloques Open Source.
