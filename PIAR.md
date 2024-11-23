@@ -35,7 +35,7 @@ Canal de Youtube dedicado a la programación creativa a mediante proyectos.
 Curso de programación basado en p5.js: variables, lógica condicional, bucles, funciones, objetos y arrays.
 
 #### Python
-- [Invent with Python](gh repo clone Canx/awesome-informatica-eso-bachiller)\
+- [Invent with Python](https://inventwithpython.com/es/)\
 Inventa tus propios juegos de computadora con Python te enseña a programar en Python. Cada capítulo contiene el código fuente completo de un nuevo juego y la explicación paso a paso de cómo funciona.
 
 ### Hardware, librerías y herramientas
